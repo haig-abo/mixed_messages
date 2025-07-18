@@ -1,0 +1,9 @@
+Project Plan
+
+Message Topic: Unexpected Weather Forecasts
+
+Approach:
+- Single array that stores multiple arrays
+- Each of those arrays store a series of strings that will be randomly selected and added to the  resulting string
+
+Function structure: single function that indexes each array depending on the random number generated.
